@@ -61,6 +61,7 @@ Radio IDs that do not follow this schema will not function properly.
 | Primary     | 446.0125 MHz      | 441.0125 MHz       |
 | Alternate 1 | 446.1125 MHz      | 441.1125 MHz       |
 | Alternate 2 | 446.2125 MHz      | 441.2125 MHz       |
+| Alternate 3 | 446.3125 MHz      | 441.3125 MHz       |
 
 ## Talkgroups
 
