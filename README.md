@@ -1,14 +1,9 @@
-# Dayton Hamvention 2024 HamTrunk™
+HamTrunk™ subscriber programming
+================================
 
-We're excited to announce that Dayton Hamvention 2024 will include an appearance from a **Motorola Type II** trunking system in the **70cm amateur band** (lovingly referred to as the **HamTrunk™**)!
+This page summarises programming instructions for HamTrunk™.
 
-## Visit us!
-
-Visit us at the **big red fire truck** 🚒 in the [EmComm Expo](https://hamvention.org/emcomm/), flea market [**booth 7720**](https://tracker.hamvention.org/Webrental/DARA/Contents/LayoutPanel.aspx?Id=18&Name=&EId=42&Page=Index&CategoryID=FleaMarket&askLogin=Yes), or call us on [**HT-Primary**](#ht-primary)!
-
-## Poster
-
-![](images/poster.png)
+**Want detailed instructions and sample codeplugs? Scroll to the bottom!**
 
 ## ❗ Authorisation / Rules ❗
 
