@@ -3,7 +3,7 @@ HamTrunk™ subscriber programming
 
 This page summarises programming instructions for HamTrunk™.
 
-**Want detailed instructions and sample codeplugs? Scroll to the bottom!**
+**Want detailed instructions and sample codeplugs? [Scroll to the bottom!](#examples-and-system-keys)**
 
 ## ❗ Authorisation / Rules ❗
 
@@ -118,4 +118,4 @@ Call alerts are allowed.
 
 
 ---
-&copy; 2024 Ilya Smirnov
+&copy; 2024-2025 [Ilya Smirnov K7UDZ](http://github.com/ilyacodes) and [Alex Yuan N4EVA](http://github.com/alexhanyuan).
