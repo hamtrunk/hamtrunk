@@ -3,7 +3,13 @@ HamTrunk™ subscriber programming
 
 This page summarises programming instructions for HamTrunk™.
 
-**Want detailed instructions and sample codeplugs? [Scroll to the bottom!](#examples-and-system-keys)**
+---
+
+**✅ Want detailed instructions and sample codeplugs? [Scroll to the bottom!](#examples-and-system-keys)**
+
+**⚠️ Getting `No Comms` or otherwise getting "bonk"ed? [Check out this MTN!](./assets/MTN-0075B-18-NA.pdf)**
+
+---
 
 ## ❗ Authorisation / Rules ❗
 
